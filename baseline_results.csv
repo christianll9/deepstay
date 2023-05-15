@@ -1,0 +1,5 @@
+
+Evaluating d_star...
+Total runs: 10
+=======================================================================================
+idx,kfold,f1,acc,time,d_max,q,t_min,T_stay
