@@ -14,7 +14,6 @@ This code was tested on CPU and GPU with the following environment:
     - pytorch=2.0.1
     - numpy=1.24.3
     - pandas=1.5.3
-    - pyyaml=6.0
     - tqdm=4.65.0
 - conda-forge:
     - geopandas=0.13.0
