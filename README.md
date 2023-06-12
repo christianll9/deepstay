@@ -4,7 +4,7 @@ The original code to Christian Löwens, Daniela Thyssens, Emma Andersson, Christ
 
 ![](./overview.png)
 
-The preprint version can be found soon on arXiv.
+The preprint version can be found on [arXiv](http://arxiv.org/abs/2306.06068).
 
 ## Requirements
 
