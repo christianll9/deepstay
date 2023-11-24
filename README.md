@@ -4,7 +4,7 @@ The original code to Christian Löwens, Daniela Thyssens, Emma Andersson, Christ
 
 ![](./overview.png)
 
-The preprint version can be found on [arXiv](http://arxiv.org/abs/2306.06068).
+This work was shortlisted for the [Best Paper/Student Paper Award at ITSC 2023](https://2023.ieee-itsc.org/best-paper-awards/). The preprint version can be found on [arXiv](http://arxiv.org/abs/2306.06068).
 
 ## Requirements
 
